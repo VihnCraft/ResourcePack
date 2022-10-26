@@ -1,8 +1,8 @@
 # VihnCraft: The official resource pack.
 
-The official VihnCraft resourcepack for java edition.
+The official VihnCraft resourcepack for **Java Edition only**.
 
-This resourcepack will not modify any item textures unless you are on vihncraft, or figure out the CustomModelData value.
+This resourcepack will not modify any item textures unless you are on the VihnCraft server, or figure out the CustomModelData value.
 
 # Installation process *(Windows, Official Launcher)*
 
