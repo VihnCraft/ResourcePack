@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/dark_oak_log",
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "vihncraft:log"}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cobblestone",
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "vihncraft:stone"}
+  ]
+}
